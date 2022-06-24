@@ -1,4 +1,4 @@
-# loginfirebase
+# rewritebase
 
 ## Project setup
 ```
@@ -15,5 +15,23 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Dirección web firebase hosting
+
+https://login-vue-f82ce.web.app
+
+### Nombre de Usurios y password
+
+
+primera cuenta:
+
+user1@user.cl
+
+123123
+
+------------------------
+
+segunda cuenta:
+
+user@user.cl
+
+123456
